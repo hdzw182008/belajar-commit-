@@ -3,4 +3,4 @@ Ini adalah dokumen biasa, ceritanya source code
 
 
 -ini adalah text tambahan pada commit kedua
--ini text ke 3 tambahan juga
+-ini text ke 3 tambahan juga, tapi diedit pada commit ke 3
